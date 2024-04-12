@@ -1,0 +1,16 @@
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\bin\Debug\net8.0-windows\лаба 11 з1.exe
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\bin\Debug\net8.0-windows\лаба 11 з1.deps.json
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\bin\Debug\net8.0-windows\лаба 11 з1.runtimeconfig.json
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\bin\Debug\net8.0-windows\лаба 11 з1.dll
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\bin\Debug\net8.0-windows\лаба 11 з1.pdb
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\obj\Debug\net8.0-windows\лаба_11_з1.Form1.resources
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\obj\Debug\net8.0-windows\лаба 11 з1.csproj.GenerateResource.cache
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\obj\Debug\net8.0-windows\лаба 11 з1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\obj\Debug\net8.0-windows\лаба 11 з1.AssemblyInfoInputs.cache
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\obj\Debug\net8.0-windows\лаба 11 з1.AssemblyInfo.cs
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\obj\Debug\net8.0-windows\лаба 11 з1.csproj.CoreCompileInputs.cache
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\obj\Debug\net8.0-windows\лаба 11 з1.dll
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\obj\Debug\net8.0-windows\refint\лаба 11 з1.dll
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\obj\Debug\net8.0-windows\лаба 11 з1.pdb
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\obj\Debug\net8.0-windows\лаба 11 з1.genruntimeconfig.cache
+D:\Users\stasm\OneDrive\Рабочий стол\лабы\ОП\лаба 11 з1\obj\Debug\net8.0-windows\ref\лаба 11 з1.dll
